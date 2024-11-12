@@ -116,7 +116,7 @@
                 <version>3.4.2</version>
                 <configuration>
                     <to>
-                        <image>mhraza95/${project.artifactId}:s7</image>
+                        <image>mhraza95/${project.artifactId}:s8</image>
                     </to>
                 </configuration>
             </plugin>
