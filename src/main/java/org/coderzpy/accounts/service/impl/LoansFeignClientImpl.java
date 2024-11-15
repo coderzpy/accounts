@@ -10,7 +10,7 @@ public class LoansFeignClientImpl implements LoansFeignClient {
      * @return Loan Details
      */
     @Override
-    public ResponseEntity<LoansDto> fetchLoanDetails(String mobileNumber) {
+    public ResponseEntity<LoansDto> fetchLoanDetails(String correlationId, String mobileNumber) {
         return null;
     }
 }
